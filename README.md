@@ -1,4 +1,4 @@
-#- 👋 Hi, I’m @estefania-bernal
+# 👋 Hi, I’m @estefania-bernal
 
 ### 🚀 About Me
 
