@@ -39,7 +39,7 @@ Currently, I am focusing on **Business Analytics**, turning raw information into
 ### 📂 Featured Projects
 
 
-#### 📊 [Customer Shopping Behavior] (End-to-End Analysis)]()
+#### 📊 [Customer Shopping Behavior] (End-to-End Analysis)](https://github.com/estefania-bernal/analysis_customer_behavior_project)
 * **The Process:** Cleaned a dataset of **3,900 transactions** using `Python (Pandas)`.
 * **The Analysis:** Performed queries in `PostgreSQL` to uncover business opportunities.
 * **The Insight:** Identified that **72% of loyal customers** are not yet subscribers, representing a massive growth opportunity.
